@@ -36,11 +36,3 @@ pip install requests beautifulsoup4 duckduckgo_search matplotlib
 
  License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-.
-├── main.py              # The code 
-├── README.md            # The documentation above
-└── requirements.txt     # List of dependencies
-
-
-Would you like me to add a section on how to customize the "Stop-Words" list to improve the visualization accuracy?
